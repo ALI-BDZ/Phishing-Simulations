@@ -42,12 +42,13 @@ This project simulates a real-world phishing campaign against a mock Tesla corpo
 > Replace the image URLs with the correct GitHub repo paths once uploaded (e.g., `images/email.png`).
 
 ### 📧 Phishing Email Preview  
-![Phishing Email](![image](https://github.com/user-attachments/assets/979443df-0af2-46e4-92db-91db5c8fe1ab)
-)
+![image](https://github.com/user-attachments/assets/79adae99-6cbe-45da-8374-08bc0db4bc5d)
+
+
 
 ### 🌐 Fake Tesla Landing Page  
-![Landing Page](![image](https://github.com/user-attachments/assets/b621f52d-657c-400b-a172-d404d659703f)
-)
+![image](https://github.com/user-attachments/assets/80fdeb5c-3e92-4c6b-ba90-b865b173ffd9)
+
 
 ---
 
