@@ -61,10 +61,8 @@ No real user data, Tesla systems, or credentials were used or targeted.
 
 ## 👨‍💻 Author
 
-**[Your Name Here]**  
+**[Ali BOuanane]**  
 Cybersecurity Researcher & Red Team Learner  
-💬 Contact: [LinkedIn/Twitter/email]
-
 If this helped you understand phishing tactics, drop a ⭐ on the repo!
 
 ---
